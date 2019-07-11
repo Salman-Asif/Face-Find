@@ -80,31 +80,6 @@ for i in range(88):
     ax.imshow(images_jeff[i].reshape(299,299),cmap=plt.cm.bone)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 id_sundar=[0]*70
 id_bill=[1]*70
 id_train=[0]*79 + [1]*76 + [2]*75 + [3]*78
